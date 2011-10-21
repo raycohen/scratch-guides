@@ -1,0 +1,31 @@
+title: Boxee Developer Guides
+description: Get started developing for Boxee devices
+
+team_name: The People That Make It Happen
+authors:
+  Documentation Team:
+    - name: Raymond Cohen
+      nick: raycohen
+      description: "Boxee developer, @raycohen on twitter"
+  Contributors:
+    - name: n/a
+      nick: nobody
+      description: You could be the first!
+
+index:
+  Start Here:
+    - title: An overview
+      url: overview
+      text: "The first place you should look - and overview of Boxee technologies and platforms"
+  HTML and Javascript:
+    - title: Getting Started
+      url: htmlapps
+      text: "The future, today -- minus a few months"
+  Python API:
+    - title: "Developing Boxee Apps with Python"
+      url: pythonapps
+      text: "XML, baby!"
+  Watch Later:
+    - title: "Hooking into Boxee's watch later queue"
+      url: watchlater
+      text: "how to get your content into the user's queue"
